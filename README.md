@@ -1,3 +1,3 @@
 # swaseem117.github.io
 
-http://swaseem117.github.io/animatebox
+https://swaseem117.github.io/Animate-Boxes/
